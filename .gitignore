@@ -1,0 +1,35 @@
+# Fichiers générés automatiquement par l'application
+# (Ne pas déposer - contiennent des données de test)
+accounts.json
+names.pkl
+face_recognizer.yml
+face_samples/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# PDF du sujet (optionnel - généralement on ne le met pas)
+# 2025_bsi_Lamport_PythonCommun_mini_projet_DSN*.pdf
+
