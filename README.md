@@ -289,7 +289,7 @@ Ce projet est réalisé dans le cadre d'un projet scolaire.
 ## 🔗 Liens
 
 - **Dépôt distant** : https://github.com/GeorgeKhita/RecoFaciale.git
-- **Vidéo de démonstration** : [URL_DRIVE_GOOGLE]
+- **Vidéo de démonstration** : https://drive.google.com/file/d/1DgGBtXenbAZKAioBeDFwX4MZuFE48ObI/view?usp=drive_link
 
 ---
 
