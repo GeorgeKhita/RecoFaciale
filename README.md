@@ -8,8 +8,6 @@ Application Python de contrôle d'accès au restaurant scolaire basée sur la **
 - Gérer les comptes et soldes des étudiants
 - Débiter automatiquement ou manuellement le prix du repas
 
-**Projet réalisé dans le cadre du cours Python BSI-DSN - Institut Limayrac**
-
 ---
 
 ## 🎯 Fonctionnalités
@@ -276,19 +274,6 @@ Consultez les fichiers dans le dossier `Doc/` pour plus de détails :
 **Projet réalisé par** : George Khitaridze  
 **Année** : 2025-2026  
 **Cours** : Python Commun
-
----
-
-## 📝 Licence
-
-Ce projet est réalisé dans le cadre d'un projet scolaire.
-
----
-
-## 🔗 Liens
-
-- **Dépôt distant** : https://github.com/GeorgeKhita/RecoFaciale.git
-- **Vidéo de démonstration** : https://drive.google.com/file/d/1DgGBtXenbAZKAioBeDFwX4MZuFE48ObI/view?usp=drive_link
 
 ---
 
