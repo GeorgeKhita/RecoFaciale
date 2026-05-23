@@ -269,14 +269,6 @@ Consultez les fichiers dans le dossier `Doc/` pour plus de détails :
 
 ---
 
-## 👤 Auteur
-
-**Projet réalisé par** : George Khitaridze  
-**Année** : 2025-2026  
-**Cours** : Python Commun
-
----
-
 ## 📌 Notes Importantes
 
 - Les données sont stockées localement dans des fichiers JSON/Pickle
