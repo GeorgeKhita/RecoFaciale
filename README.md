@@ -273,8 +273,7 @@ Consultez les fichiers dans le dossier `Doc/` pour plus de détails :
 
 ## 👤 Auteur
 
-**Projet réalisé par** : [Votre Nom]  
-**Établissement** : Institut Limayrac - BSI-DSN  
+**Projet réalisé par** : George Khitaridze  
 **Année** : 2025-2026  
 **Cours** : Python Commun
 
